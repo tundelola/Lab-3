@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\tableOfPower\tableOfPower\bin\Debug\tableOfPower.exe
+c:\users\user\documents\visual studio 2015\Projects\tableOfPower\tableOfPower\bin\Debug\tableOfPower.exe.config
+c:\users\user\documents\visual studio 2015\Projects\tableOfPower\tableOfPower\obj\Debug\tableOfPower.exe
+c:\users\user\documents\visual studio 2015\Projects\tableOfPower\tableOfPower\obj\Debug\tableOfPower.pdb
+c:\users\user\documents\visual studio 2015\Projects\tableOfPower\tableOfPower\bin\Debug\tableOfPower.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\tableOfPower\tableOfPower\obj\Debug\tableOfPower.csprojResolveAssemblyReference.cache
